@@ -1,0 +1,175 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    }
+     
+    .container {
+    
+       border: 1px solid black;
+      display: flex;
+    }
+    
+    .leftbox {
+    width: 400px;
+    background-color: rgb(234, 162, 30);
+    padding: 70px;
+      }
+    .rightbox {
+      width: 50%;
+      padding: 50px;
+    
+    
+    }
+    .user-image {
+    
+      width: 250px;
+      height: 250px;
+      border-radius: 100%;
+    
+    }
+    
+    .name-con {
+    
+    margin-top: 70px;
+    
+    }
+    
+     .name-con > h2 {
+      font-family: 'Brygada 1918', serif;
+      text-transform: uppercase;
+      font-size: 40px;
+      
+    
+     }   
+    
+    .name-con > h5{
+    
+    
+      text-transform: uppercase;
+      font-size: 20px;
+    
+    
+    }
+    
+    
+    .left-site-box {
+    
+    /*  border: 1px solid white; */
+      color: white;
+      margin-top: 30px;
+    }
+    
+    .left-site-box >h4 {
+    
+    text-transform: uppercase;
+    border-bottom: 3px solid white;
+    font-size: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-family: 'Brygada 1918', serif;
+    
+    }
+    
+    .contact-sup-con {
+      
+    /* border: 1px solid white; */
+    display: inline-flexbox;
+    font-family: 'Brygada 1918', serif;
+    margin-bottom: 15px;
+    }
+    
+    .contact-sup-con>.icon-con{
+    
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 20px;
+    
+    
+    }
+    
+    .contact-sup-con > .text-con >h5 {
+    
+      margin-bottom: 10px;
+      font-size: 20px;
+    }
+    
+    .contact-sup-con > .text-con >p{
+    
+      font-size: 18px;
+    }
+    
+    .skill{
+    
+      font-size: 18px ;
+    
+    }
+    
+    .follow-sup-con > h5 {
+    
+      font-size: 20px;
+    
+    }
+    
+    .follow-sup-con > p {
+    
+      margin-bottom: 10px;
+    }
+      
+    .right-site-title {
+    
+    border-bottom:  3px solid gray;
+    height: 50px;
+    margin-top: 100px;
+    padding-bottom: 25px;
+    margin-bottom: 20px;
+    font-family: 'Brygada 1918', serif;
+    
+    
+    }
+    
+    .right-site-title > h4 {
+    
+    line-height: 50px;
+    padding-left: 50px;
+    text-transform: uppercase;
+    font-size: 30px;
+    
+    }
+    
+    
+    
+    
+    .para {
+    
+      font-size: 25px;
+    }
+    
+    .right-site-title-con {
+    
+      border-bottom: 3px solid gray;
+    margin-top: 5px;
+    height: 90px;
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-size: 25px;
+    
+    
+    }
+    
+    .e-sup-con {
+    
+      margin-top: 20px;
+      font-family: 'Brygada 1918', serif;
+      font-size: 25px;
+    }
+    
+    .l-con {
+    
+      font-size: 25px;
+    }
+    
+    
+      
